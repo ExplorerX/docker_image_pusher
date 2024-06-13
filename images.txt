@@ -6,3 +6,5 @@
 # --platform=linux/arm64 xiaoyaliu/alist
 halohub/halo:2.16
 postgres:15.4
+nginx
+nginx-proxy-manager
