@@ -1,1 +1,2 @@
-nginx
+linuxserver/bookstack
+linuxserver/mariadb
